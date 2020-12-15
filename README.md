@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://movie-app-fe361.web.app/">
+  <a href="https://abeatrix.github.io/shoppinglist-ts/">
     Shopping List App
   </a>
 </h1>
