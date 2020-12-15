@@ -12,5 +12,5 @@ A simple shopping list built in React with Typescript
 </div>
 
 ## To-do
-Add backend server
-Refactor into React Native
+- Add backend server
+- Refactor into React Native
